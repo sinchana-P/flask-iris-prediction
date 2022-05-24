@@ -1,0 +1,18 @@
+.my_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#6A1B4D; 
+    height: 50px;
+    background-color: #51E1ED;
+}
+
+.my-navbar{
+    background-color: #51E1ED;
+}
+
+.my_output{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
